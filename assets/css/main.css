@@ -639,7 +639,7 @@ input[type="radio"] + label:before {
 		display: block;
 		height: 100%;
 		left: 0;
-		opacity: 0.5;
+		opacity: 0.0;
 		position: absolute;
 		top: 0;
 		width: 100%;
@@ -1124,7 +1124,7 @@ button {
 		-webkit-transition-delay: 0.75s;
 		-ms-transition-delay: 0.75s;
 		transition-delay: 0.75s;
-		background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+		background-image: linear-gradient(to top, rgba(19, 21, 25, 0.0), rgba(19, 21, 25, 0.0)), url("../../images/overlay.png");
 		background-size: auto, 256px 256px;
 		background-position: center, center;
 		background-repeat: no-repeat, repeat;
